@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rishabharaj
+- 👋 Hi, I’m @rishabharaj_sharma
 - 👀 I’m interested in cyber security
 - 🌱 I’m currently learning C/C++/Java/Python
 - 💞️ I’m looking to collaborate on Bussiness models using AIML
