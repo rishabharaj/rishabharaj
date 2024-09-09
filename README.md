@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rishabharaj
 - 👀 I’m interested in cyber security
-- 🌱 I’m currently learning C/C++/Java
+- 🌱 I’m currently learning C/C++/Java/Python
 - 💞️ I’m looking to collaborate on Bussiness models using AIML
 - 📫 How to reach me telegram username- @eclipsor_108
 
