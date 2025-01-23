@@ -55,6 +55,8 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/rishabharaj/rishabharaj/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img height="200" src="https://imgflip.com/memetemplate/448534608/cat-door-close"  />
+</div>
 
 ###
