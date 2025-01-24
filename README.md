@@ -1,4 +1,4 @@
-<h3 align="left">Hi there 👋<br>I'm Rishabharaj, a 4th-semester Information Technology Engineering student at IET DAVV, Indore, MP, India.<br>🔹 Passionate about trading algorithms Web app development.<br>🔹 Exploring automation and machine learning for innovative solutions.<br>🔹 Always eager to learn and build impactful projects.<br>Feel free to connect or explore my repositories! 🚀</h3>
+<h3 align="left">Hi there 👋<br>I'm Rishabharaj, a 4th-semester Information Technology Engineering student at IET DAVV, Indore, MP, India.<br>🔹 Passionate about trading algorithms & Web app development.<br>🔹 Exploring automation and machine learning for innovative solutions.<br>🔹 Always eager to learn and build impactful projects.<br>Feel free to connect or explore my repositories! 🚀</h3>
 
 ###
 
