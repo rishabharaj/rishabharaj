@@ -54,9 +54,9 @@
   </a>
 </div>
 
-  <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=rishabharaj&label=Profile%20views&color=0e75b6&style=flat" 
-       alt="rishabharaj" />
-</p>
+<div align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+    <h3>Visitor Count</h3>
+    <img src="https://profile-counter.glitch.me/rishabharaj/count.svg" alt="Profile Visitor Count" />
+  </div>
 
 ###
