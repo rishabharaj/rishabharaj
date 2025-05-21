@@ -1,5 +1,5 @@
 <h1> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
-<h3 align="left">I'm Rishabharaj, a 4th-semester Information Technology Engineering student at IET DAVV, Indore, MP, India.<br>🔹 Passionate about trading algorithms & Web app development.<br>🔹 Exploring automation and machine learning for innovative solutions.<br>🔹 Always eager to learn and build impactful projects.<br>Feel free to connect or explore my repositories! 🚀</h3>
+<h3 align="left">I'm Rishabharaj, a 5th-semester Information Technology Engineering student at IET DAVV, Indore, MP, India.<br>🔹 Passionate about trading algorithms & Web app development.<br>🔹 Exploring automation and machine learning for innovative solutions.<br>🔹 Always eager to learn and build impactful projects.<br>Feel free to connect or explore my repositories! 🚀</h3>
 
 ###
 
