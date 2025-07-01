@@ -3,7 +3,7 @@
 <h3 align="left">
 I'm Rishabharaj, a 5th-semester Information Technology Engineering student at IET DAVV, Indore, MP, India.<br>
 🔹 Passionate about trading algorithms & Web app development.<br>
-🔹 Exploring automation and machine learning for innovative solutions.<br>
+🔹 Exploring automation, AI  and machine learning for innovative solutions.<br>
 🔹 Always eager to learn and build impactful projects.<br><br>
 🔗 <b><a href="https://hello-rs.vercel.app/index.html" target="_blank">My Portfolio</a></b><br>
 Feel free to connect or explore my repositories! 🚀
