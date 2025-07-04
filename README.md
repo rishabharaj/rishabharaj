@@ -37,6 +37,8 @@ Feel free to connect or explore my repositories! 🚀
   <img width="13" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="linux logo"  />
   <img width="13" />
+  <img src="https://cdn.jsdelivr.net/gh/marwin1991/profile-technology-icons/icons/kali_linux.png" height="50" alt="kali linux logo" />
+  <img width="13" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo" />
   <img width="13" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo" />
