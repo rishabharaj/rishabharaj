@@ -50,26 +50,26 @@ Feel free to connect or explore my repositories! 🚀
 
 ###
 
-<img align="right" height="200" src="https://i.imgflip.com/9hq6yk.gif"  />
+<img align="right" height="200" src="https://i.imgflip.com/9hq6yk.gif" height="45"  width="240" />
 
 ###
 
 <div align="left">
   <h3>Connect with me:</h3>
   <a href="https://www.instagram.com/eclipsor_rishabh?igsh=dGM2NXJ0YWxzOGpy" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="45"  width="240" lt="instagram logo"  />
   </a>
   <a href="http://t.me/eclipsor_108" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="telegram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="45" width="220" alt="telegram logo"  />
   </a>
   <a href="https://discordapp.com/users/rishabharaj" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="discord logo"  />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="45" width="220" alt="discord logo"  />
   </a>
   <a href="mailto:rishabharaj321@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="45" width="185" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/rishabharaj-sharma-57a7a8256">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="45"  width="195" alt="linkedin logo"  />
   </a>
 </div>
 
