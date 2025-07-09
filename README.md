@@ -50,7 +50,7 @@ Feel free to connect or explore my repositories! 🚀
 
 ###
 
-<img align="right" height="200" src="https://i.imgflip.com/9hq6yk.gif" height="45"  width="220" />
+<img align="right" height="200" src="https://i.imgflip.com/9hq6yk.gif" height="45"  width="200" />
 
 ###
 
