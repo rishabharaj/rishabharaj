@@ -57,7 +57,7 @@ Feel free to connect or explore my repositories! 🚀
 <div align="left">
   <h3>Connect with me:</h3>
   <a href="https://www.instagram.com/eclipsor_rishabh?igsh=dGM2NXJ0YWxzOGpy" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="45"  width="240" lt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="45"  width="200" lt="instagram logo"  />
   </a>
   <a href="http://t.me/eclipsor_108" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="45" width="220" alt="telegram logo"  />
