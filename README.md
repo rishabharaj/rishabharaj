@@ -29,7 +29,7 @@ Feel free to connect or explore my repositories! 🚀
   <img width="13" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" width="80" alt="css3 logo"  />
   <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="55" width="60" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" width="55" alt="javascript logo"  />
   <img width="13" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" width="80" alt="python logo"  />
   <img width="13" />
