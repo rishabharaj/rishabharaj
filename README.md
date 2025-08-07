@@ -73,9 +73,6 @@ Feel free to connect or explore my repositories! 🚀
   </a>
 </div>
 
-<div align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-  <h3>Visitor Count</h3>
-  <img src="https://profile-counter.glitch.me/rishabharaj/count.svg" alt="Profile Visitor Count" />
-</div>
+
 
 ###
