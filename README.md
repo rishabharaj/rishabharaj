@@ -1,4 +1,4 @@
-![banner](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=180&section=header&text=Rishabharaj%20Sharma&fontSize=30&fontColor=ffffff)
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=180&section=header&text=Rishabharaj%20Sharma&fontSize=40&fontColor=ffffff)
 <h1> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
 
 <h3 align="left">
@@ -56,22 +56,35 @@ Feel free to connect or explore my repositories! 🚀
 ###
 
 <div align="left">
-  <h3>Connect with me:</h3>
-  <a href="https://www.instagram.com/eclipsor_rishabh?igsh=dGM2NXJ0YWxzOGpy" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="45"  width="130" lt="instagram logo"  />
+  <h3 align="center">🌐 Connect with Me</h3>
+<div align="center">
+  <a href="https://instagram.com/eclipsor_rishabh" target="_blank" style="margin: 0 10px;">
+    <img src="https://skillicons.dev/icons?i=instagram" width="40" height="40" />
   </a>
-  <a href="http://t.me/eclipsor_108" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="45" width="120" alt="telegram logo"  />
+  &nbsp;
+  <a href="https://t.me/eclipsor_108" target="_blank" style="margin: 0 10px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="Telegram" />
   </a>
-  <a href="https://discordapp.com/users/rishabharaj" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="45" width="114" alt="discord logo"  />
+  &nbsp;
+  <a href="https://discordapp.com/users/rishabharaj" target="_blank" style="margin: 0 10px;">
+    <img src="https://skillicons.dev/icons?i=discord" width="40" height="40" />
   </a>
-  <a href="mailto:rishabharaj321@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="45" width="95" alt="gmail logo"  />
+  &nbsp;
+  <a href="mailto:rishabharaj321@gmail.com" target="_blank" style="margin: 0 10px;">
+    <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" />
   </a>
-  <a href="https://www.linkedin.com/in/rishabharaj-sharma-57a7a8256" target="_blank" > 
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="45"  width="100" alt="linkedin logo"  />
+  &nbsp;
+  <a href="https://linkedin.com/in/rishabharaj-sharma-57a7a8256" target="_blank" style="margin: 0 10px;">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" />
   </a>
+  &nbsp;
+  <a href="https://github.com/eclipsor" target="_blank" style="margin: 0 10px;">
+    <img src="https://skillicons.dev/icons?i=github" width="40" height="40" />
+  </a>
+</div>
+
+</div>
+
 </div>
 
 
