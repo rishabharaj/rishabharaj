@@ -80,7 +80,7 @@ Feel free to connect or explore my repositories! 🚀
     <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" />
   </a>
   &nbsp;
-  <a href="https://github.com/eclipsor" target="_blank" style="margin: 0 10px;">
+  <a href="https://github.com/rishabharaj" target="_blank" style="margin: 0 10px;">
     <img src="https://skillicons.dev/icons?i=github" width="40" height="40" />
   </a>
 </div>
