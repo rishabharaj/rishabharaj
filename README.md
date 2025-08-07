@@ -1,4 +1,4 @@
-![banner](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=180&section=header&text=Rishabharaj%20Sharma&fontSize=40&fontColor=ffffff)
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=180&section=header&text=Rishabharaj%20Sharma&fontSize=20&fontColor=ffffff)
 <h1> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
 
 <h3 align="left">
@@ -51,7 +51,7 @@ Feel free to connect or explore my repositories! 🚀
 
 ###
 
-<img align="right" height="200" src="https://i.imgflip.com/9hq6yk.gif" height="45"  width="180" />
+<img align="right" height="200" src="https://i.imgflip.com/9hq6yk.gif" height="20"  width="110" />
 
 ###
 
