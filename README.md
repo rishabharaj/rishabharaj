@@ -64,22 +64,32 @@ Feel free to connect or explore my repositories! 🚀
     <img src="https://skillicons.dev/icons?i=instagram" width="40" height="40" />
   </a>
   &nbsp;
+    &nbsp;
+    &nbsp;
   <a href="https://t.me/eclipsor_108" target="_blank" style="margin: 0 10px;">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="Telegram" />
   </a>
   &nbsp;
+    &nbsp;
+    &nbsp;
   <a href="https://discordapp.com/users/rishabharaj" target="_blank" style="margin: 0 10px;">
     <img src="https://skillicons.dev/icons?i=discord" width="40" height="40" />
   </a>
   &nbsp;
+    &nbsp;
+    &nbsp;
   <a href="mailto:rishabharaj321@gmail.com" target="_blank" style="margin: 0 10px;">
     <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" />
   </a>
   &nbsp;
+    &nbsp;
+    &nbsp;
   <a href="https://linkedin.com/in/rishabharaj-sharma-57a7a8256" target="_blank" style="margin: 0 10px;">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" />
   </a>
   &nbsp;
+    &nbsp;
+    &nbsp;
   <a href="https://github.com/rishabharaj" target="_blank" style="margin: 0 10px;">
     <img src="https://skillicons.dev/icons?i=github" width="40" height="40" />
   </a>
