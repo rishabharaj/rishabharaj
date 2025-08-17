@@ -98,7 +98,9 @@ Feel free to connect or explore my repositories! 🚀
 </div>
 
 </div>
+&nbsp;
+&nbsp;
 
-
+> "Code is like humor. When you have to explain it, it’s bad." — Cory House
 
 ###
