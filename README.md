@@ -78,7 +78,7 @@ Feel free to connect or explore my repositories! 🚀
   &nbsp;
     &nbsp;
     &nbsp;
-  <a href="mailto:rishabharaj321@gmail.com" target="_blank" style="margin: 0 10px;">
+  <a href="mailto:rishabharaj4you@gmail.com" target="_blank" style="margin: 0 10px;">
     <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" />
   </a>
   &nbsp;
