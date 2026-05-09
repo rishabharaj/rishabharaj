@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:3B82F6,100:06B6D4&height=200&section=header&text=Rishabharaj%20Sharma&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:3B82F6,100:06B6D4&height=160&section=header&text=Rishabharaj%20Sharma&fontSize=32&fontColor=ffffff&animation=fadeIn" width="100%" />
 
 <div align="center">
 
