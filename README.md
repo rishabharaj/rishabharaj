@@ -18,7 +18,7 @@
 
 <table width="100%">
 <tr>
-<td valign="top" width="60%">
+<td valign="top" width="65%">
 
 ```yaml
 🏷️  Name      : Rishabharaj Sharma
@@ -34,13 +34,9 @@
 🎯 &nbsp; Mission: **Open-source & push boundaries**
 
 </td>
-<td valign="top" align="center" width="40%">
+<td valign="middle" align="center" width="35%">
 
-<img src="https://i.imgflip.com/9hq6yk.gif" width="220" />
-
-<a href="https://www.rishabh.rocks/">
-  <img src="https://img.shields.io/badge/🌐_My_Portfolio-6C63FF?style=for-the-badge" />
-</a>
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="420" />
 
 </td>
 </tr>
