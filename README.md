@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:3B82F6,100:06B6D4&height=250&section=header&text=Rishabharaj%20Sharma&fontSize=42&fontColor=ffffff&fontAlignY=32&desc=IT%20Engineer%20%E2%80%A2%20Developer%20%E2%80%A2%20Tech%20Enthusiast&descSize=18&descAlignY=55&descColor=ffffffcc&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:3B82F6,100:06B6D4&height=200&section=header&text=Rishabharaj%20Sharma&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" />
 
 <div align="center">
 
@@ -36,7 +36,7 @@
 🏷️  Name      : Rishabharaj Sharma
 📍  Location  : Indore, MP, India 🇮🇳
 🎓  Education : B.E. IT @ IET DAVV (6th Sem)
-🌐  Portfolio : rs-coral-ten.vercel.app
+🌐  Portfolio : www.rishabh.rocks
 📧  Email     : rishabharaj4you@gmail.com
 ```
 
@@ -176,3 +176,4 @@
   > *"Code is like humor. When you have to explain it, it's bad."* — **Cory House**
 
 </div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:3B82F6,100:06B6D4&height=150&section=footer&text=Thanks%20For%20Visiting!%20%E2%9C%A8&fontSize=20&fontColor=ffffff&fontAlignY=72&animation=fadeIn" width="100%" />
