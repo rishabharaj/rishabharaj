@@ -36,7 +36,7 @@
 </td>
 <td valign="middle" align="center" width="35%">
 
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="430" />
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="380" />
 
 </td>
 </tr>
